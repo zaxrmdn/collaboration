@@ -1,0 +1,1 @@
+const saya: string = "Farhan" 
